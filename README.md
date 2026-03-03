@@ -10,7 +10,6 @@ I'm a final year **Data Science & Analytics** student at the **National Universi
 ## 🚀 I'm currently working on / Future projects
 
 - **How to beat wordle**: A passion project to dive into the statistics of one of my favourite games and design a model for optimal gameplay through various gamemodes & considerations.
-- **What's the sentiment of your texts**: An add-on to my Sentiment analysis project from 2 years ago, to practice some frontend development in creating an interface.
 
 ## 💻 Some of my past projects
 
